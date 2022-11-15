@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 707c5f087fbbf55488fcbf4371627650, type: 3}
+  m_Name: Carrot
+  m_EditorClassIdentifier: 
+  product:
+    product: 1
+  numberOfPiecesInEarthCell: 2
+  givesExperience: 10
+  maturationTime: 5
+  productPrefab: {fileID: 5236796769968427346, guid: 7d8129ece2f44c6478de7bf0b1412635, type: 3}
+  typeHarvest:
+    harvest: 1
